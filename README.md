@@ -22,7 +22,7 @@ I'm passionate about building modern web applications, mobile apps, and interact
 ### Languages & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,python,javascript,html,css,godot" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,python,javascript,html,css,tailwindcss,godot" />
 </p>
 
 ### Databases & Backend
