@@ -41,7 +41,7 @@ I'm passionate about building modern web applications, mobile apps, and interact
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=flutter,dart,godot" /><br>
+      <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,godot" /><br>
       <img src="https://skillicons.dev/icons?i=android,apple" />
     </td>
     <td align="center">
