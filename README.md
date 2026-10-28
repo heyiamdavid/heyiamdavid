@@ -46,11 +46,11 @@ I'm passionate about building modern web applications, mobile apps, and interact
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react,javascript,html,css" /><br>
-      <img src="https://skillicons.dev/icons?i=go,python,tailwindcss" />
+      <img src="https://skillicons.dev/icons?i=go,cs,python,tailwindcss" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase" /><br>
-      <img src="https://skillicons.dev/icons?i=vercel" />
+      <img src="https://skillicons.dev/icons?i=gcp,vercel" />
       <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="28" alt="Render" /><br>
       <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" height="28" alt="Clerk" /><br>
       <img src="https://skillicons.dev/icons?i=git,vscode,linux" />
