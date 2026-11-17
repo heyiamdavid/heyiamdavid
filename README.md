@@ -45,8 +45,8 @@ I'm passionate about building modern web applications, mobile apps, and interact
       <img src="https://skillicons.dev/icons?i=android,apple" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,javascript,html,css" /><br>
-      <img src="https://skillicons.dev/icons?i=go,cs,python,tailwindcss" />
+      <img src="https://skillicons.dev/icons?i=react,svelte,javascript,html,css" /><br>
+      <img src="https://skillicons.dev/icons?i=go,rust,cs,python,tailwindcss" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase" /><br>
